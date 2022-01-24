@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component should render 1`] = `
+<DocumentFragment>
+  <div
+    class="header"
+  >
+    <h1
+      class="header__title"
+    >
+      Property Listings
+    </h1>
+  </div>
+</DocumentFragment>
+`;

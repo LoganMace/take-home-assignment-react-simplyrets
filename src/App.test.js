@@ -1,11 +1,8 @@
-import { render, screen } from '@testing-library/react';
+import React from 'react';
+import { render } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const heading = screen.getByRole(
-    'heading',
-    /Side React Take-home Assignment/i,
-  );
-  expect(heading).toBeInTheDocument();
+test('should render', () => {
+  const { asFragment } = render(<App />);
+  expect(asFragment()).toMatchSnapshot();
 });

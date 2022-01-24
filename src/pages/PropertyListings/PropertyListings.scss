@@ -1,0 +1,8 @@
+.properties {
+  margin: 38px 58px;
+  display: grid;
+  justify-content: space-evenly;
+  grid-template-columns: repeat(auto-fit, minmax(315px, 315px));
+  column-gap: 58px;
+  row-gap: 37px;
+}

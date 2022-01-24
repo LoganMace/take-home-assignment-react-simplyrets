@@ -1,0 +1,878 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PropertyListings Component should render 1`] = `
+<DocumentFragment>
+  <div
+    class="properties"
+  />
+</DocumentFragment>
+`;
+
+exports[`PropertyListings Component should render listings 1`] = `
+<DocumentFragment>
+  <div
+    class="properties"
+  >
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home9.jpg"
+        />
+        <div
+          data-testid="favorite-icon-49699701"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        2 BR | 8 Bath | 1043 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $20,714,261
+      </div>
+      <div
+        class="listing__address"
+      >
+        74434 East Sweet Bottom Br, Houston, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 5/23/11
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home15.jpg"
+        />
+        <div
+          data-testid="favorite-icon-51650230"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        3 BR | 6.5 Bath | 5607 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $9,375,751
+      </div>
+      <div
+        class="listing__address"
+      >
+        8369 West MAJESTY STREET Path, Oak Ridge, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 10/25/94
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home5.jpg"
+        />
+        <div
+          data-testid="favorite-icon-35069323"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        5 BR | 5 Bath | 1990 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $12,104,869
+      </div>
+      <div
+        class="listing__address"
+      >
+        90678 South VELLUM Extension, Cypress, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 11/25/91
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home14.jpg"
+        />
+        <div
+          data-testid="favorite-icon-94037173"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        6 BR | 3 Bath | 2955 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $7,857,291
+      </div>
+      <div
+        class="listing__address"
+      >
+        34149 East GRANICUS Mews, Houston, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 12/11/91
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home7.jpg"
+        />
+        <div
+          data-testid="favorite-icon-16165980"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        2 BR | 5.5 Bath | 1452 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $13,685,168
+      </div>
+      <div
+        class="listing__address"
+      >
+        21366 South Creek Mist Bluff, Cypress, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 4/29/05
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home2.jpg"
+        />
+        <div
+          data-testid="favorite-icon-79978809"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        5 BR | 2.5 Bath | 2991 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $20,764,446
+      </div>
+      <div
+        class="listing__address"
+      >
+        89810 East Running Doe Knoll, Katy, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 8/20/12
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home7.jpg"
+        />
+        <div
+          data-testid="favorite-icon-69057382"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        3 BR | 6 Bath | 2607 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $16,438,971
+      </div>
+      <div
+        class="listing__address"
+      >
+        59603 West Zuelke Forge, Katy, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 1/2/10
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home2.jpg"
+        />
+        <div
+          data-testid="favorite-icon-18684882"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        1 BR | 8 Bath | 3363 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $17,450,668
+      </div>
+      <div
+        class="listing__address"
+      >
+        96294 West BEAD GRASS TER Gate, Cypress, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 11/6/12
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home8.jpg"
+        />
+        <div
+          data-testid="favorite-icon-83502118"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        5 BR | 6 Bath | 2991 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $14,218,255
+      </div>
+      <div
+        class="listing__address"
+      >
+        18985 West Perry Hill Trce, Oak Ridge, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 4/15/96
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home4.jpg"
+        />
+        <div
+          data-testid="favorite-icon-57603177"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        6 BR | 4 Bath | 1990 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $10,114,945
+      </div>
+      <div
+        class="listing__address"
+      >
+        39781 West Old Woman Springs Rd Drive, Katy, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 4/22/11
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home2.jpg"
+        />
+        <div
+          data-testid="favorite-icon-7854868"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        6 BR | 3 Bath | 2305 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $7,987,596
+      </div>
+      <div
+        class="listing__address"
+      >
+        13045 East Hedstrom Road Falls, Oak Ridge, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 3/3/07
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home7.jpg"
+        />
+        <div
+          data-testid="favorite-icon-58154421"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        4 BR | 6.5 Bath | 4985 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $21,944,509
+      </div>
+      <div
+        class="listing__address"
+      >
+        81545 East PLUMAS CT Trace, Tomball, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 4/10/96
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home10.jpg"
+        />
+        <div
+          data-testid="favorite-icon-97392864"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        4 BR | 7.5 Bath | 2130 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $9,014,063
+      </div>
+      <div
+        class="listing__address"
+      >
+        172 North British Colony Boulevard, Oak Ridge, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 4/16/10
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home4.jpg"
+        />
+        <div
+          data-testid="favorite-icon-76723631"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        6 BR | 6 Bath | 3498 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $10,815,936
+      </div>
+      <div
+        class="listing__address"
+      >
+        86242 South OCOTILLO CT Boulevard, The Woodlands, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 11/13/90
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home15.jpg"
+        />
+        <div
+          data-testid="favorite-icon-38765076"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        3 BR | 7 Bath | 10100 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $419,294
+      </div>
+      <div
+        class="listing__address"
+      >
+        65991 North THE PASEO Fwy, Oak Ridge, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 11/16/95
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home4.jpg"
+        />
+        <div
+          data-testid="favorite-icon-58343654"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        1 BR | 7.5 Bath | 2018 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $774,444
+      </div>
+      <div
+        class="listing__address"
+      >
+        62993 South Wilbur Ave Pl, The Woodlands, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 1/28/02
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home8.jpg"
+        />
+        <div
+          data-testid="favorite-icon-31879116"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        4 BR | 4.5 Bath | 722 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $9,199,166
+      </div>
+      <div
+        class="listing__address"
+      >
+        22690 West Hunters Hollow Garden, Oak Ridge, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 8/17/00
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home13.jpg"
+        />
+        <div
+          data-testid="favorite-icon-61984704"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        5 BR | 7.5 Bath | 240 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $7,633,393
+      </div>
+      <div
+        class="listing__address"
+      >
+        12763 South 33 STREET Trce, Tomball, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 1/24/06
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home16.jpg"
+        />
+        <div
+          data-testid="favorite-icon-43148864"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        1 BR | 6 Bath | 2840 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $9,243,871
+      </div>
+      <div
+        class="listing__address"
+      >
+        68385 North Giaramita Row, Katy, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 2/6/97
+      </div>
+    </div>
+    <div
+      class="listing"
+      data-testid="property-listing"
+    >
+      <div
+        class="listing__image-wrap"
+      >
+        <img
+          alt="house front"
+          class="listing__image"
+          src="https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home7.jpg"
+        />
+        <div
+          data-testid="favorite-icon-73053128"
+        >
+          <img
+            alt="favorite icon"
+            class="listing__fav-icon"
+            src="heart-stroke.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="listing__interior"
+      >
+        3 BR | 3.5 Bath | 2130 Sq Ft
+      </div>
+      <div
+        class="listing__price"
+      >
+        $23,507,305
+      </div>
+      <div
+        class="listing__address"
+      >
+        46761 West Deep Step Meadow, Katy, Texas
+      </div>
+      <div
+        class="listing__date"
+      >
+        Listed: 3/6/98
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

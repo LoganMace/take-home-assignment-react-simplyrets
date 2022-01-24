@@ -1,0 +1,49 @@
+.listing {
+  width: 315px;
+
+  &__image-wrap {
+    height: 280px;
+    width: 315px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    position: relative;
+  }
+
+  &__image {
+    height: 280px;
+  }
+
+  &__fav-icon {
+    position: absolute;
+    top: 18px;
+    right: 24px;
+    height: 36px;
+    width: 39px;
+    cursor: pointer;
+  }
+
+  &__interior {
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  &__price {
+    font-size: 26px;
+    font-weight: 700;
+  }
+
+  &__address {
+    font-size: 15px;
+    font-weight: 400;
+  }
+
+  &__date {
+    color: #979797;
+    font-size: 14px;
+    font-weight: 400;
+  }
+}

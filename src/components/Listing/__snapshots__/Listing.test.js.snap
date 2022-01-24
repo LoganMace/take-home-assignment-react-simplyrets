@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Listing Component should call toggleFavorite on click 1`] = `
+<DocumentFragment>
+  <div
+    class="listing"
+    data-testid="property-listing"
+  >
+    <div
+      class="listing__image-wrap"
+    >
+      <img
+        alt="house front"
+        class="listing__image"
+        src="test-image"
+      />
+      <div
+        data-testid="favorite-icon-1"
+      >
+        <img
+          alt="favorite icon"
+          class="listing__fav-icon"
+          src="heart-stroke.svg"
+        />
+      </div>
+    </div>
+    <div
+      class="listing__interior"
+    >
+      4 BR | 4 Bath | 3456 Sq Ft
+    </div>
+    <div
+      class="listing__price"
+    >
+      $1,234,567
+    </div>
+    <div
+      class="listing__address"
+    >
+      404 Main St, Dallas, TX
+    </div>
+    <div
+      class="listing__date"
+    >
+      Listed: 12/3/20
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Listing Component should render 1`] = `
+<DocumentFragment>
+  <div
+    class="listing"
+    data-testid="property-listing"
+  >
+    <div
+      class="listing__image-wrap"
+    >
+      <img
+        alt="house front"
+        class="listing__image"
+        src="test-image"
+      />
+      <div
+        data-testid="favorite-icon-undefined"
+      >
+        <img
+          alt="favorite icon"
+          class="listing__fav-icon"
+          src="heart-stroke.svg"
+        />
+      </div>
+    </div>
+    <div
+      class="listing__interior"
+    >
+      4 BR | 4 Bath | 3456 Sq Ft
+    </div>
+    <div
+      class="listing__price"
+    >
+      $1,234,567
+    </div>
+    <div
+      class="listing__address"
+    >
+      404 Main St, Dallas, TX
+    </div>
+    <div
+      class="listing__date"
+    >
+      Listed: 12/3/20
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Listing Component should show filled heart 1`] = `
+<DocumentFragment>
+  <div
+    class="listing"
+    data-testid="property-listing"
+  >
+    <div
+      class="listing__image-wrap"
+    >
+      <img
+        alt="house front"
+        class="listing__image"
+        src="test-image"
+      />
+      <div
+        data-testid="favorite-icon-undefined"
+      >
+        <img
+          alt="favorite icon"
+          class="listing__fav-icon"
+          src="heart-fill.svg"
+        />
+      </div>
+    </div>
+    <div
+      class="listing__interior"
+    >
+      4 BR | 4 Bath | 3456 Sq Ft
+    </div>
+    <div
+      class="listing__price"
+    >
+      $1,234,567
+    </div>
+    <div
+      class="listing__address"
+    >
+      404 Main St, Dallas, TX
+    </div>
+    <div
+      class="listing__date"
+    >
+      Listed: 12/3/20
+    </div>
+  </div>
+</DocumentFragment>
+`;

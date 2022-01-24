@@ -1,0 +1,16 @@
+.header {
+  z-index: 10;
+  height: 103px;
+  width: 100%;
+  background-color: #F4F4F4;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+
+  &__title {
+    font-size: 28px;
+    margin-left: 60px;
+    font-weight: 600;
+  }
+}
