@@ -45,7 +45,7 @@ export const Listing = ({
   return (
     <div data-testid={`property-listing`} className='listing'>
       <div className='listing__image-wrap'>
-        <img className='listing__image' src={photo} alt='house front' />
+        <img className='listing__image' src={photo} alt='property listing image' />
         {getHeartIcon()}
       </div>
       <div className='listing__interior'>{bedrooms} BR | {calculateBaths(bathsFull, bathsHalf)} Bath | {area} Sq Ft</div>
